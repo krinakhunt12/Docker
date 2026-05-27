@@ -1,4 +1,4 @@
-# 🐳 Docker — Complete Knowledge Reference
+<img width="445" height="105" alt="image" src="https://github.com/user-attachments/assets/9433ee7e-3a0c-4bbe-8b73-598db21dd281" /># 🐳 Docker — Complete Knowledge Reference
 ---
 
 ## 📋 Table of Contents
@@ -20,6 +20,9 @@
 ## 1. What is Docker?
 
 Docker is an open-source platform for **building, shipping, and running applications inside containers**. A container packages your application code along with all its dependencies, libraries, and configuration into a single, portable unit.
+
+<img width="445" height="105" alt="image" src="https://github.com/user-attachments/assets/10c8a4c6-5668-491d-b5e7-a54658d51fd7" />
+
 
 ### Container vs Virtual Machine
 
