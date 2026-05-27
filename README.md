@@ -1,5 +1,4 @@
 # 🐳 Docker — Complete Knowledge Reference
-> Based on: *Introduction to Docker* — Google Cloud Qwiklabs Lab  
 ---
 
 ## 📋 Table of Contents
@@ -591,5 +590,3 @@ Developer writes code
 ```
 
 ---
-
-*Lab completed: 2026-05-27 | Platform: Google Cloud Qwiklabs | Course: Introduction to Docker*
