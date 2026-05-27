@@ -1,4 +1,4 @@
-<img width="445" height="105" alt="image" src="https://github.com/user-attachments/assets/9433ee7e-3a0c-4bbe-8b73-598db21dd281" /># 🐳 Docker — Complete Knowledge Reference
+# 🐳 Docker — Complete Knowledge Reference
 ---
 
 ## 📋 Table of Contents
